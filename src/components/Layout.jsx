@@ -36,7 +36,7 @@ export default function Layout({ title, subtitle, children }) {
               Laporan
             </NavLink>
             <NavLink to="/about" className={navItem}>
-              About
+              Tentang
             </NavLink>
           </nav>
         </div>
